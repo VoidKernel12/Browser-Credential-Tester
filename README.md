@@ -15,7 +15,7 @@ A lightweight web portal testing, asset cloning, and live telemetry logging tool
 
 ## Installation & SetUp
    ```bash
-  git clon https://github.com/VoidKernel12/Browser-Credential-Tester.git
+  git clone https://github.com/VoidKernel12/Browser-Credential-Tester.git
 ```
 ```bash
  cd Browser-Credential-Tester
