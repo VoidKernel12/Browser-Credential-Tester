@@ -1,5 +1,5 @@
 ⚠️ Disclaimer
-​Educational & Testing Purpose Only: This tool is strictly created for educational purposes, security research, and capturing IP addresses and data in authorized testing environments. The author is not responsible for any misuse, unauthorized access, or illegal activities conducted using this software. Always ensure you have proper permission before testing
+ ​Educational & Testing Purpose Only: This tool is strictly created for educational purposes, security research, and capturing IP addresses and data in authorized testing environments. The author is not responsible for any misuse, unauthorized access, or illegal activities conducted using this software. Always ensure you have proper permission before testing
 
  # Browser Data Telemetry & Portal Testing Tool
 
@@ -16,18 +16,18 @@ A lightweight web portal testing, asset cloning, and live telemetry logging tool
 ## Installation & Setup
 
    ```bash
-  1. git clon https://github.com/VoidKernel12/Browser-Credential-Tester.git
+  git clon https://github.com/VoidKernel12/Browser-Credential-Tester.git
 ```
 ```bash
-  2. cd your-repo-na
+ cd Browser-Credential-Tester
 ```
 ```bash
-   3. chmod +x install.sh
+  chmod +x install.sh
 ```
 ```bash
-    4.  ./install.sh
+  ./install.sh
 ```
 ```bash
-        5.  python main.py
+   python main.py
 ```
 
